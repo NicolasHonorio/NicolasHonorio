@@ -5,7 +5,7 @@
 • I'm in my first year of high school🏫
 • I'm learning to use java script📜
 
-### contact me![1f327](https://github.com/NicolasHonorio/NicolasHonorio/assets/148449451/3312a0d1-39f0-4307-8b45-bf58333897e6)
+### contact me🌧️
 nicolas.honorio@escola.pr.gov.br
 
 

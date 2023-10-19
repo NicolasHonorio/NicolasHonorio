@@ -1,11 +1,16 @@
 ### Welcome to my profile! ✨
 
 • You can call me Nicolas🤙
+
 • Studying in college Newton Ferreira da Costa📚
+
 • I'm in my first year of high school🏫
+
 • I'm learning to use java script📜
 
+
 ### contact me🌧️
+
 nicolas.honorio@escola.pr.gov.br
 
 

@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to my profile! ✨
 
-<!--
-**NicolasHonorio/NicolasHonorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• You can call me Nicolas🤙
+• Studying in college Newton Ferreira da Costa📚
+• I'm in my first year of high school🏫
+• I'm learning to use java script📜
 
-Here are some ideas to get you started:
+### contact me![1f327](https://github.com/NicolasHonorio/NicolasHonorio/assets/148449451/3312a0d1-39f0-4307-8b45-bf58333897e6)
+nicolas.honorio@escola.pr.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![giphy](https://github.com/NicolasHonorio/NicolasHonorio/assets/148449451/480ecea7-f1c6-4e39-871c-6e7784a1978f)
+

@@ -23,7 +23,7 @@ I'm always looking for opportunities to collaborate on interesting projects and 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://github.com/NicolasHonorio/NicolasHonorio/blob/NicolasHonorio-patch-1/luffy-rindo-gear5.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Luffy-rindo-gear5">
+<img src="https://user-images.githubusercontent.com/148449451/276811299-65be880d-b86e-4064-a12e-f92ca4eeafe6.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Luffy-rindo-gear5">
 
 
 #### Studying in this moment:

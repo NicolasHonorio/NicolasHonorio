@@ -1,5 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/NicolasHonorio/NicolasHonorio/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<img align="right" style="margin-bottom:100px" width=30% src="https://github.com/NicolasHonorio/NicolasHonorio/blob/NicolasHonorio-patch-1/giphy.gif" min-width="400px" max-width="400px" width="400px" align="left" alt="Luffy-olhos-gear5">
 
 <p align="center">❤️ I'm a programming enthusiast, always in search of new knowledge and challenges. At 15 years old, I'm at the beginning of my journey in the world of technology and I'm excited to learn and grow as a developer.
 

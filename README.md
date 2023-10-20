@@ -22,7 +22,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="    GIF LUFFY    " min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/NicolasHonorio/NicolasHonorio/blob/NicolasHonorio-patch-1/luffy-rindo-gear5.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Luffy-rindo-gear5">
 
 
 #### Studying in this moment:

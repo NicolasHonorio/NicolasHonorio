@@ -1,6 +1,6 @@
 <img align="right" style="margin-bottom:100px" width=30% src="https://github.com/NicolasHonorio/NicolasHonorio/blob/NicolasHonorio-patch-1/giphy.gif" min-width="400px" max-width="400px" width="400px" align="left" alt="Luffy-olhos-gear5">
 
-<p align="center">❤️ I'm a programming enthusiast, always in search of new knowledge and challenges. At 17 years old, I'm at the beginning of my journey in the world of technology and I'm excited to learn and grow as a developer.
+<p align="center">❤️ I'm a programming enthusiast, always in search of new knowledge and challenges. At 15 years old, I'm at the beginning of my journey in the world of technology and I'm excited to learn and grow as a developer.
 
 I'm always looking for opportunities to collaborate on interesting projects and learn from other developers. If you'd like to work together or just have a chat about technology, feel free to contact me.<strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
